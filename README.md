@@ -1,3 +1,1 @@
-Proyek ini bertujuan untuk menganalisis sentimen dari komentar YouTube pada channel MPL Indonesia, khususnya pada video live streaming dari Season 10 hingga Season 15. Dengan menganalisis komentar-komentar tersebut, proyek ini berusaha melihat bagaimana respon dan persepsi penonton berubah dari satu season ke season lainnya.
-
-Melalui proses pengambilan data, pembersihan teks, dan analisis sentimen, proyek ini menghasilkan perbandingan antara komentar positif, netral, dan negatif di setiap musim. Hasil analisis ini dapat memberikan gambaran umum tentang opini publik, serta membantu memahami tren atau isu yang muncul dalam komunitas penonton MPL.
+Analisis sentimen komentar YouTube dari tayangan live streaming MPL Indonesia Season 10–15. Proyek ini bertujuan membandingkan sentimen penonton antar season untuk melihat perubahan persepsi, tren, dan respons audiens terhadap setiap musim.
